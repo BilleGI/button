@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+    <file>images/green_button.png</file>
+    <file>images/red_button.png</file>
+    <file>sound/click.mp3</file>
+    </qresource>
+
+</RCC>
